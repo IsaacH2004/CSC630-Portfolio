@@ -6,4 +6,4 @@ but I would like to take a second to reecognize that my time in this class has b
 rewarding. Thanks to the support of Dr. Armstrong and my peers, I explored many new methods of data
 visualization and had a great time doing so. Thank you all so much for your time-- it's been a plesure.
 
-- Isaac Heitmann 
+Isaac Heitmann 
